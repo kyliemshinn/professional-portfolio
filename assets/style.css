@@ -1,3 +1,11 @@
-body {
-    background-image: url("./bg-portfolio.jpg");
+* {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#sf-jumbo {
+    background-image: url("./citylights.jpg");
+    opacity: .5;
+    height: 400px;
+    width: 150%;
 }
