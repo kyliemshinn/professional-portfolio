@@ -5,6 +5,7 @@
 
 main {
     background-color: rgb(88, 84, 84);
+    margin: 20px;
 }
 
 #sf-jumbo {
@@ -12,4 +13,13 @@ main {
     opacity: .5;
     height: 400px;
     width: 150%;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+#about-me {
+    padding: 20px;
+    margin-top: 30px;
 }
