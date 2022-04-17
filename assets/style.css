@@ -14,7 +14,8 @@ main {
     background-image: url("./citylights.jpg");
     opacity: .5;
     height: 400px;
-    width: 150%;
+    width: 100%;
+    margin-top: 0px;
 }
 
 h2 {
@@ -58,4 +59,16 @@ h2 {
 
 .projects {
     width: fit-content;
+}
+
+h3 {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.contact {
+    color: black;
 }
