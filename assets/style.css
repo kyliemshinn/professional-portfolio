@@ -3,6 +3,10 @@
 
 }
 
+main {
+    background-color: rgb(88, 84, 84);
+}
+
 #sf-jumbo {
     background-image: url("./citylights.jpg");
     opacity: .5;
