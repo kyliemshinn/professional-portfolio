@@ -5,7 +5,9 @@ https://kyliemshinn.github.io/professional-portfolio/
 ## Description
 
 This project is meant to showcase all the relevant work experience I have thus far with web development. I chose my strongest projects that show the progression in web development I have made at this point. The theme of this project was meant to be simple and modern, with a minimalistic feel- a style that expresses me and my style in general. I chose black and white for its simplicity and modern feel. I created my own logo through canvas that I have made my own home page logo. 
-![KS LOGO](./assets/ks-work-logo.png =100x20)
+
+![KS LOGO](./assets/ks-work-logo.png)
+
 
 ## Technologies Used
 
