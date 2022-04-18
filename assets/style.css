@@ -68,6 +68,10 @@ h2 {
 #contact-info {
     margin: 50px;
 }
+
+#contact-header {
+    font-weight: bold;
+}
 .contact {
     color: black;
 }
