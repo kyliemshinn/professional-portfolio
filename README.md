@@ -11,7 +11,7 @@ This project is meant to showcase all the relevant work experience I have thus f
 ## Features
 
 * Biography and logo statement about me
-* Relevant
+* Relevant projects
 * Contact information
 
 
