@@ -8,6 +8,12 @@ This project is meant to showcase all the relevant work experience I have thus f
 
 ![KS LOGO](./assets/ks-work-logo.png)
 
+## Features
+
+* Biography and logo statement about me
+* Relevant
+* Contact information
+
 
 ## Technologies Used
 
@@ -18,8 +24,8 @@ This project is meant to showcase all the relevant work experience I have thus f
 
 Kylie Shinn
 
-Github: https://github.com/kyliemshinn
-LinkedIn: https://www.linkedin.com/in/kylie-shinn-18b0301b7/
+* Github: https://github.com/kyliemshinn
+* LinkedIn: https://www.linkedin.com/in/kylie-shinn-18b0301b7/
 
 ## License
 

@@ -12,10 +12,20 @@ main {
 
 #sf-jumbo {
     background-image: url("./citylights.jpg");
-    opacity: .5;
+    opacity: .4;
     height: 400px;
     width: 100%;
     margin-top: 0px;
+}
+
+#slogan {
+    /* text-align: justify; */
+    opacity: 1;
+    font-style: italic;
+    color: white;
+    position: absolute;
+    bottom: 80px;
+    margin-left: 45px;
 }
 
 h2 {
@@ -28,7 +38,6 @@ h2 {
 }
 
 #project-1 {
-    margin: 50px;
     padding: 10px;
     height: 400px;
     background-image: url(./bw-pet.jpg);
