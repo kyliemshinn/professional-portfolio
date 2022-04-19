@@ -28,13 +28,15 @@ main {
     margin-left: 45px;
 }
 
-h2 {
+h2, #contact-header {
     font-weight: bold;
 }
 
-#about-me {
+#about-me, #contact-info {
     padding: 20px;
-    margin: 50px;
+    margin: 50px; background-color: rgb(88, 84, 84);
+    color: white;
+    border: solid rgb(88, 84, 84);
 }
 
 #project-1 {
@@ -78,9 +80,4 @@ h2 {
     margin: 50px;
 }
 
-#contact-header {
-    font-weight: bold;
-}
-.contact {
-    color: black;
-}
+
